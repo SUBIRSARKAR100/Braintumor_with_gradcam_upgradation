@@ -80,6 +80,6 @@ It improves transparency by showing **where the model is focusing**, making the 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/brain-tumor-classification.git
+git clone https://github.com/SUBIRSARKAR100/brain-tumor-classification.git
 cd brain-tumor-classification
 
